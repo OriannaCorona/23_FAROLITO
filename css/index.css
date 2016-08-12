@@ -1,0 +1,264 @@
+	/*Inicio*/
+.fondo1{
+	background: url("../img/img-home.png");
+	width: 100%;
+	height: 700px;
+	background-size: 100% 100%;
+}
+nav{
+	list-style-type: none;
+	margin: 2% 0% 2% 55%;
+}
+li{
+	display: inline-block;
+	color: #989898;
+	margin: 0% 0% 5% 1%;
+	font-size: 150%;
+}
+.es{
+	border-radius: 40px 40px;
+	padding: 5%;
+	font-size: 80%;
+}
+.botgri{
+	color: white;
+	background-color: #4d4545;
+	border-radius: 40px 40px;
+	border: none;
+	width: 150%;
+	padding: 5%;
+	font-size: 80%;
+}
+.farolito{
+	margin: 5% 0% 0% 70%;
+}
+.pazul{
+	font-size: 2em;
+	line-height: 1.5;
+	margin: 2% 0% 2% 57%;
+}
+.pgris{
+	line-height: 1.5;
+	font-size: 1em;
+	margin: 2% 0% 2% 57%; 
+}
+.botna{
+	color: white;
+	font-size: 1em;
+	background-color: #ff6a49;
+	width: 15%;
+	padding: 1%;
+	margin: 0% 0% 5% 71%;
+	border-radius: 10px 10px;
+	border: none;
+}
+/*metodologia*/
+.metodologia{
+	font-size: 1.7em;
+	margin-bottom: 5%;
+}
+.quote1{
+	margin: -25% 0% 0% 340%;
+}
+.quote{
+	margin: 100% 0% 0% -70%;
+}
+.circulo{
+	border-radius: 50%;
+	width: 400px;
+	height: 400px;
+	margin: 5% 0% 10% 30%;
+	color: white;
+	background-color: #ff6a49;
+}
+.borde{
+	border-radius: 50%;
+	border:2px white dashed;
+	width: 370px;
+	height: 370px;
+	margin-top: 4.5%;
+	padding-top: 15%;
+	line-height: 1.5;
+	font-size: 140%;	
+}
+#pilares{
+	margin-top: 7%;
+}
+.evaluacion{
+	margin: -25% 0% 0% 0%;
+}
+.preferencias{
+	margin: -25% 0% 0% 67%;
+}
+.punteanaranja{
+	border:1px #ff6a49 dashed;
+	transform: rotate(160deg);
+	width: 60%;	
+	margin: -65% 0% 0% 40%;
+}
+.punteanaranja2{
+	border:1px #ff6a49 dashed;
+	transform: rotate(200deg);
+	width: 60%;	
+	margin: -70% 0% 0% 9%;
+}
+.punteanaranja3{
+	border:1px #ff6a49 dashed;
+	transform: rotate(90deg);
+	width: 8%;	
+	margin: -25% 0% 0% 45%;
+}
+.analisis{
+	margin: 0% 0% 0% 0.5%;
+}
+.botazu{
+	background-color: #28c5e6;
+	color: white;
+	margin: 30% 0% 8% 37.5%;
+	width: 25%;
+	height: 60px;
+	font-size: 1.5em;
+	border: none;
+	border-radius: 20px 20px;
+}
+/*postulantes*/
+.postulantes{
+	background-color: #28c5e6;
+	width: 960px;
+	height: 100%;
+	background-size: 100% 100%;
+	color: white;
+	line-height: 1.5;
+	margin: -3% 0% 0% 0%; 
+}	
+.num{
+	width: 100px;
+	height: 100px;
+}
+.rabla{
+	border-bottom: dashed 2px white;
+	margin-top: 8%;
+	padding-bottom: 5%;
+}
+	/*empresas*/
+.rana{
+	border-bottom: dashed 2px #ff6a49;
+	padding-bottom:5%;
+}
+.botnar{
+	color: white;
+	font-size: 1em;
+	background-color: #ff6a49;
+	width: 70%;
+	height: 70px;
+	margin-top: 20%;
+	margin-bottom: 10%;	
+}
+	/*centro educativo*/
+.educativo{
+	background-color: #77d248;
+	width: 100%;
+	height: 100%;
+	color: white;
+}
+.raba{
+	border-bottom: dashed 2px white;
+	padding-bottom:5%;
+}
+.botbla{
+	color: white;
+	font-size: 1em;
+	background-color: #77d248;
+	width: 70%;
+	height: 70px;
+	margin-top: 20%;
+	margin-bottom: 10%;	
+	border:white solid;
+}
+	/*lista de oportunidades*/
+.oportunidades{
+	background:url("../img/img-03.png");
+	width: 100%;
+	height: 1200px;
+	background-size: 100% 100%;
+}
+.razu{
+	border-bottom: solid 2px #28c5e6;
+	padding-bottom:3%;
+	text-align: left;
+	margin-left: 30%;
+	margin-top: 3%;
+}
+.oferta{
+	text-align: left;
+	margin-left: 30%;
+	color: #989898;
+	line-height: 1.5;
+}
+.cuana{
+	color: #ff6a49;
+	width: 100px;
+	height: 50px;
+	border:solid #ff6a49;
+	text-align: center;
+	border-radius: 20%;
+	padding: 3%;
+	margin-top: 40%;
+}
+.ragris{
+	border-bottom: dashed 1px #989898;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+	/*blog*/
+.cuama{
+	width: 250px;
+	height: 200px;
+	background-color: #ffc200;
+	color: white;
+	display: block;
+	margin: auto;
+	padding-top: 10%;
+	line-height: 1.5;
+}	
+.cuagri{
+	width: 250px;
+	height: 200px;
+	background-color: #4d4545;
+	color: #989898;
+	display: block;
+	margin: auto;
+	padding-top: 10%;
+	line-height: 1.5;
+}
+	/*Consulta*/
+.consulta{
+	background-color: #989898;
+	width: 100%;
+	height: 500px;
+	color: #4d4545;
+}	
+input{
+	width: 32%;
+	height: 30px;
+	display: block;
+	margin: auto;
+}
+textarea{
+	resize:none;
+	display: block;
+	margin: auto;
+}
+	/*footer*/
+footer{
+	background-color: #4d4545;
+	color: #989898;
+	width: 100%;
+	padding-top: 2%;
+}	
+.redes{
+	display: inline-block;
+	position: relative;
+	float: left;
+	margin-left: 2%;
+}
